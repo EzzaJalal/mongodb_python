@@ -55,8 +55,8 @@ Prints all item details from the items collection
 
 📝 Create a Shopping List
 Enter list name: Birthday Party
-Enter store name: Lidl
-Enter shopper name: Ezza
+Enter store name: Prisma
+Enter shopper name: Elena
 Is the list completed? (yes/no): no
 
 🛍️ Create an Item
