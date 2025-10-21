@@ -25,3 +25,8 @@ Make sure you have Python and MongoDB installed. Then install PyMongo:
 ```bash
 pip install pymongo
 
+```markdown
+   ![mongo_test.](screenshots/mongo_test.png)
+   ![MongoDB Compass](screenshots/MongoDB Compass.png)
+   ![Shopping List Manager](screenshots/Shopping List Manager.png)
+
