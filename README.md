@@ -52,6 +52,7 @@ Inserts a sample item (Cookies)
 Prints all item details from the items collection
 
 📋 Example Commands
+
 📝 Create a Shopping List
 Enter list name: Birthday Party
 Enter store name: Lidl
@@ -73,13 +74,10 @@ New value: 5
 
 🖼️ Screenshots
 🧪 mongo_test.py Output
-
 Shows successful MongoDB connection, item insertion, and printed item details from the items collection.
 
 🗂️ MongoDB Compass View
-
 Displays the structure and contents of the shopping_lists and items collections, verifying that documents are inserted and linked correctly.
 
 🛒 Shopping List Manager Interface
-
 Command-line menu interface for managing shopping lists and items using full CRUD operations.
